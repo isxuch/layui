@@ -1,7 +1,7 @@
 # layui
-[原文地址](https://gitee.com/shaojiepeng/layui-treetable) /<br>
+[原文地址](https://gitee.com/shaojiepeng/layui-treetable) <br>
 
-存放关于layui知识点 /<br>
+存放关于layui知识点 <br>
 +新增了复选框功能
 ![输入图片说明](https://gitee.com/uploads/images/2018/0211/142056_95ca72f8_980808.png "3.png")
 
